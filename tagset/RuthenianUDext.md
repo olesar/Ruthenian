@@ -5,7 +5,7 @@
 This document presents a brief description of the part of speech and morphological tagset used for grammatical annotation of the Ruthenian corpus. 
 A brief description see below the table.
 
-Created: 21 May 2023  Edited: 27 May 2023  
+Created: 21 May 2023  Edited: 18 Oct 2024  
 See the main version [here](https://github.com/olesar/ruUD/blob/master/conversion/RuthenianUDext.md). 
 
 ## Universal parts of speech (UPOS)
@@ -58,7 +58,7 @@ See the main version [here](https://github.com/olesar/ruUD/blob/master/conversio
 |SYM|SYM||X|Sy|X|symbol|_%_, _+_|UD basic|символ|сімвал|
 |PUNCT|||PUNCT|Zz|Z|punctuation mark|_,_|UD basic|знак препинания|знак прыпынку|
 
-PROPN: определяется по пометам persn, patrn, famn, zoon и в большинстве случаев abbr в поле «Грамматика» НКРЯ|+ существительное - имя собственное|+|(_Иван_, _Москва_, _СССР_); определяется по пометам persn, patrn, famn, zoon и в большинстве случаев abbr в поле «Грамматика»  
+PROPN: существительное - имя собственное: определяется по пометам persn, patrn, famn, zoon и в большинстве случаев abbr в поле «Грамматика» (в тегах НКРЯ) (_Стефанъ_, _Юшиничъ_, _Бельскъ_)    
 INIT: запись вида «заглавная буква с точкой» (_М._, _Р._). В поле «Лемма» инициал не раскрывается; грамматические признаки не указываются в НКРЯ, Abbr=Yes в UDext  
 ANUM: _один_ размечается как NUM в UD, остальные как ADJ  
 PRED: see the [list](https://github.com/olesar/Ruthenian/blob/main/wordlists/praedicatives.txt) of most frequent praedicatives  

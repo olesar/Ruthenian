@@ -27,13 +27,17 @@ de/corpus)
   * Словник української мови XVI - I пол. XVII ст.: У 28-ми вип. / НАН України Інститут українознавства ім. І.Крип’якевича; гол. ред. Д.Гринчишин. Львів, 1994-.
 <a href="http://www.inst-ukr.lviv.ua/uk/publications/materials/slovnyk/">link</a>  
   * Тимченко, Євген Костянтинович. Матеріали до словника писемної та книжної української мови XV-XVIII ст. Книга 1. А-Н / Підготували до видання В. В. Німчук, Г. I. Лиса. – Інститут української мови Національної академії наук України; Українська Вільна Академія Наук у США. – Київ – Нью-Йорк, 2002. – 512 с. – ISBN 966-7252-25-6. – (Пам'ятки української мови . Серія словників).
-https://archive.org/details/kniga1
-  * Тимченко, Євген Костянтинович. Матеріали до словника писемної та книжної української мови XV-XVIII ст. Книга 2. О-Я. / Підготували до видання В. В. Німчук, Г. I. Лиса. Інститут української мови Національної академії наук України; Українська Вільна Академія Наук у США. – Київ – Нью-Йорк, 2003. – 512 с. – ISBN 966-7252-52-6. – (Пам'ятки української мови . Серія словників).
-https://archive.org/details/kniga2
+[pdf](https://shron3.chtyvo.org.ua/Tymchenko_Yevhen/Materialy_do_slovnyka_pysemnoi_ta_knyzhnoi_ukrainskoi_movy_XV__XVIII_st_Knyha_1.pdf) [pdf](https://archive.org/details/kniga1)  
+  * Тимченко, Євген Костянтинович. Матеріали до словника писемної та книжної української мови XV-XVIII ст. Книга 2. О-Я. / Підготували до видання В. В. Німчук, Г. I. Лиса. Інститут української мови Національної академії наук України; Українська Вільна Академія Наук у США. – Київ – Нью-Йорк, 2003. – 512 с. – ISBN 966-7252-52-6. – (Пам'ятки української мови . Серія словників). [pdf](https://shron3.chtyvo.org.ua/Tymchenko_Yevhen/Materialy_do_slovnyka_pysemnoi_ta_knyzhnoi_ukrainskoi_movy_XV__XVIII_st_Knyha_2.pdf) [pdf](https://archive.org/details/kniga2)  
+
+* Житецкий П. И. Словарь книжной малорусской речи. Рукописи XVII века. [pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/%D0%96%D0%B8%D1%82%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%9F.%D0%98._%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%BA%D0%BD%D0%B8%D0%B6%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D1%80%D0%B5%D1%87%D0%B8._%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%B8_XVII_%D0%B2%D0%B5%D0%BA%D0%B0._%281888%29.pdf)  
+
+* Зізаній, Лаўрэнцій. Лексис сирѣчь реченія, въкратъцѣ събранны и из Словенскаго языка на простый Рускій діялектъ истолкованы Л. Ζ // Вацлаў Ластоўскі. Першы крыўскі (беларускі) слоўнік 1596 году // Часопіс «Крывіч», № 2 (8), красавік-сьнежань 1924 г., б. 52-65. [html](https://be.wikisource.org/wiki/%D0%9F%D0%B5%D1%80%D1%88%D1%8B_%D0%BA%D1%80%D1%8B%D1%9E%D1%81%D0%BA%D1%96_(%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D1%96)_%D1%81%D0%BB%D0%BE%D1%9E%D0%BD%D1%96%D0%BA_1596_%D0%B3%D0%BE%D0%B4%D1%83)  
+
 
 ### Description and grammatical description 
 * Old Belarusian: [list](https://github.com/olesar/dict/blob/gh-pages/be-hsbm/misc/README.md)  
-* Old Ukrainian: [list]  
+* Old Ukrainian: [list](https://github.com/olesar/dict/blob/gh-pages/be-hsbm/misc/README.md)  
 
 ### Sources  
 * see the folder sources (https://github.com/olesar/Ruthenian/tree/main/sources)  

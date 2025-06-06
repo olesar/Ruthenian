@@ -3,7 +3,7 @@ Ruthenian corpus and supplementary materials
 
 ### Corpora
 * Ruthenian UD [stable](https://github.com/UniversalDependencies/UD_Old_East_Slavic-Ruthenian) [beta](https://github.com/UniversalDependencies/UD_Old_East_Slavic-Ruthenian/tree/dev)
-* DiaUk – Korpus zur Geschichte des Ukrainischen im 16.-18. Jahrhundert (by Irina Parkhomenko, Olesja Lazarenko, Roland Meyer, and Björn Hansen) [search online](https://korpling.org/annis/diauk) [descrition](https://www.slawistik.hu-berlin.de/de/fachgebiete/westslawsw/forschung-wsw/prostory/diauk-korpus-zur-aelteren-geschichte-des-ukrainischen/view)  
+* DiaUk – Korpus zur Geschichte des Ukrainischen im 16.-18. Jahrhundert (by Irina Parkhomenko, Olesja Lazarenko, Roland Meyer, and Björn Hansen) [search online](https://korpling.org/annis/diauk) [description](https://www.slawistik.hu-berlin.de/de/fachgebiete/westslawsw/forschung-wsw/prostory/diauk-korpus-zur-aelteren-geschichte-des-ukrainischen/view)  
 * Modern Corpus of Spoken Rusyn [Freiburg](www.russinisch.uni-freiburg.
 de/corpus)
 
